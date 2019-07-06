@@ -6,7 +6,7 @@ The development set up is powered by Parcel JS, which provides fast bundling, ho
 
 ## Resources
 
-Highway JS
-GSAP Library
-Parcel
-[Gradient Backgrounds: https://webgradients.com/]
+[Highway JS](https://highway.js.org)
+[GSAP Library](https://greensock.com/gsap)
+[Parcel JS](https://parceljs.org)
+[Gradient Backgrounds](https://webgradients.com)
