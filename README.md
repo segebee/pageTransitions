@@ -9,4 +9,4 @@ The development set up is powered by Parcel JS, which provides fast bundling, ho
 Highway JS
 GSAP Library
 Parcel
-[Gradient Backgrounds:] https://webgradients.com/
+[Gradient Backgrounds: https://webgradients.com/]
